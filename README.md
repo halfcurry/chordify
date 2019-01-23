@@ -19,3 +19,5 @@ simultaneously.
 
 The problem statement can be stated as : Given a music audio,
 can we determine the sequence of chords present in that it?
+
+Read the final report for further information.
